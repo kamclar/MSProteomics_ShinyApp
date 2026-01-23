@@ -1,6 +1,6 @@
 # MSProteomics Shiny App
 
-Interaktivní **Shiny aplikace pro analýzu LC-MS/MS proteomických dat** (intenzity na úrovni proteinů) se zaměřením na běžný workflow:
+Interaktivní **Shiny aplikace pro analýzu LC-MS/MS proteomických dat**:
 - kontrola a předzpracování dat (intenzity, popisné sloupce)
 - práce s **missing values** (vizualizace/diagnostika)
 - **diferenciální analýza** mezi skupinami (typicky **limma** a **DEqMS**)
